@@ -1,0 +1,260 @@
+PMID- 38892540
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240619
+LR  - 20240924
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 16
+IP  - 11
+DP  - 2024 May 24
+TI  - The Mediterranean Diet in Pregnancy: Implications for Maternal Brain Morphometry 
+      in a Secondary Analysis of the IMPACT BCN Randomized Clinical Trial.
+LID - 10.3390/nu16111604 [doi]
+LID - 1604
+AB  - INTRODUCTION: A Mediterranean diet has positive effects on the brain in mid-older 
+      adults; however, there is scarce information on pregnant individuals. We aimed to 
+      evaluate the effect of a structured Mediterranean diet intervention on the 
+      cortical structure of the maternal brain during pregnancy. METHODS: This study 
+      was a secondary analysis of the IMPACT BCN, a randomized clinical trial with 1221 
+      high-risk pregnant women randomly allocated into three groups at 19-23 weeks of 
+      gestation: Mediterranean diet intervention, a mindfulness-based stress reduction 
+      program, or usual care. Maternal brain magnetic resonance imaging was performed 
+      during the third trimester of pregnancy in a random subgroup of participants. For 
+      this study, data from the Mediterranean diet and usual groups were analyzed. 
+      Maternal dietary intake, adherence to the Mediterranean diet and metabolite 
+      biomarkers were evaluated using a food frequency questionnaire, a 17-item dietary 
+      screener and plasma/urine samples, respectively. RESULTS: The cluster-wise 
+      analysis showed that the Mediterranean diet group participants (n = 34) had 
+      significantly larger surface areas in the right precuneus (90%CI: <0.0001-0.0004, 
+      p < 0.001) and left superior parietal (90%CI: 0.026-0.033, p = 0.03) lobules 
+      compared to the usual care group participants (n = 37). A larger right precuneus 
+      area was associated with high improvements in adherence to the Mediterranean 
+      diet, a high intake of walnuts and high concentrations of urinary hydroxytyrosol. 
+      A larger left superior parietal area was associated with a high intake of walnuts 
+      and high concentrations of urinary hydroxytyrosol. CONCLUSIONS: The promotion of 
+      a Mediterranean diet during pregnancy has a significant effect on maternal brain 
+      structure.
+FAU - Nakaki, Ayako
+AU  - Nakaki A
+AUID- ORCID: 0000-0002-4395-3878
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Institut d'Investigacions Biomédiques August Pi i Sunyer (IDIBAPS), 08036 
+      Barcelona, Spain.
+FAU - Gomez, Yvan
+AU  - Gomez Y
+AUID- ORCID: 0000-0003-0794-7750
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+FAU - Castro-Barquero, Sara
+AU  - Castro-Barquero S
+AUID- ORCID: 0000-0002-6876-5443
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Department of Internal Medicine Hospital Clinic, IDIBAPS, University of 
+      Barcelona, 08036 Barcelona, Spain.
+AD  - Centro de Investigación Biomédica en Red de Fisiopatología de la Obesidad y 
+      Nutrición (CIBEROBN), 28029 Madrid, Spain.
+AD  - Institut de Recerca en Nutrició i Seguretat Alimentaria (INSA-UB), University of 
+      Barcelona, 08028 Barcelona, Spain.
+FAU - Conti, Allegra
+AU  - Conti A
+AUID- ORCID: 0000-0003-4210-5065
+AD  - Department of Biomedicine and Prevention, University of Rome "Tor Vergata", 00133 
+      Rome, Italy.
+FAU - Vellvé, Kilian
+AU  - Vellvé K
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+FAU - Casas, Irene
+AU  - Casas I
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Institut d'Investigacions Biomédiques August Pi i Sunyer (IDIBAPS), 08036 
+      Barcelona, Spain.
+FAU - Genero, Mariona
+AU  - Genero M
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Institut de Recerca Sant Joan de Déu, 08950 Esplugues de Llobregat, Spain.
+FAU - Youssef, Lina
+AU  - Youssef L
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Institut d'Investigacions Biomédiques August Pi i Sunyer (IDIBAPS), 08036 
+      Barcelona, Spain.
+AD  - Josep Carreras Leukaemia Research Institute, Hospital Clinic/University of 
+      Barcelona Campus, 08036 Barcelona, Spain.
+FAU - Segalés, Laura
+AU  - Segalés L
+AUID- ORCID: 0000-0002-8583-8835
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+FAU - Benitez, Leticia
+AU  - Benitez L
+AUID- ORCID: 0000-0002-4950-036X
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Institut d'Investigacions Biomédiques August Pi i Sunyer (IDIBAPS), 08036 
+      Barcelona, Spain.
+FAU - Casas, Rosa
+AU  - Casas R
+AUID- ORCID: 0000-0002-0211-9166
+AD  - Department of Internal Medicine Hospital Clinic, IDIBAPS, University of 
+      Barcelona, 08036 Barcelona, Spain.
+AD  - Centro de Investigación Biomédica en Red de Fisiopatología de la Obesidad y 
+      Nutrición (CIBEROBN), 28029 Madrid, Spain.
+AD  - Institut de Recerca en Nutrició i Seguretat Alimentaria (INSA-UB), University of 
+      Barcelona, 08028 Barcelona, Spain.
+FAU - Vieta, Eduard
+AU  - Vieta E
+AUID- ORCID: 0000-0002-0548-0053
+AD  - Department of Psychiatry and Psychology, Hospital Clinic, Neuroscience Institute, 
+      IDIBAPS, University of Barcelona, 08036 Barcelona, Spain.
+AD  - Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM), Instituto de 
+      Salud Carlos III, 28029 Madrid, Spain.
+FAU - Bargallo, Nuria
+AU  - Bargallo N
+AUID- ORCID: 0000-0001-6284-5402
+AD  - Institut d'Investigacions Biomédiques August Pi i Sunyer (IDIBAPS), 08036 
+      Barcelona, Spain.
+AD  - Radiology Department, Center of Image Diagnostic, Hospital Clínic, Facultad de 
+      Medicina, Universidad de Barcelona, 08036 Barcelona, Spain.
+FAU - Toschi, Nicola
+AU  - Toschi N
+AD  - Department of Biomedicine and Prevention, University of Rome "Tor Vergata", 00133 
+      Rome, Italy.
+AD  - Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School, 
+      Boston, MA 02115, USA.
+FAU - Estruch, Ramon
+AU  - Estruch R
+AUID- ORCID: 0000-0003-1260-4445
+AD  - Department of Internal Medicine Hospital Clinic, IDIBAPS, University of 
+      Barcelona, 08036 Barcelona, Spain.
+AD  - Centro de Investigación Biomédica en Red de Fisiopatología de la Obesidad y 
+      Nutrición (CIBEROBN), 28029 Madrid, Spain.
+AD  - Institut de Recerca en Nutrició i Seguretat Alimentaria (INSA-UB), University of 
+      Barcelona, 08028 Barcelona, Spain.
+FAU - Crispi, Fàtima
+AU  - Crispi F
+AUID- ORCID: 0000-0002-7422-5240
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Institut d'Investigacions Biomédiques August Pi i Sunyer (IDIBAPS), 08036 
+      Barcelona, Spain.
+AD  - Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, 
+      Spain and Centre for Biomedical Research on Rare Diseases (CIBERER), 08036 
+      Barcelona, Spain.
+FAU - Gratacos, Eduard
+AU  - Gratacos E
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Institut d'Investigacions Biomédiques August Pi i Sunyer (IDIBAPS), 08036 
+      Barcelona, Spain.
+AD  - Institut de Recerca Sant Joan de Déu, 08950 Esplugues de Llobregat, Spain.
+AD  - Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, 
+      Spain and Centre for Biomedical Research on Rare Diseases (CIBERER), 08036 
+      Barcelona, Spain.
+FAU - Crovetto, Francesca
+AU  - Crovetto F
+AUID- ORCID: 0000-0003-0140-7411
+AD  - BCNatal|Fetal Medicine Research Center (Hospital Clínic and Hospital Sant Joan de 
+      Déu), University of Barcelona, 08028 Barcelona, Spain.
+AD  - Institut de Recerca Sant Joan de Déu, 08950 Esplugues de Llobregat, Spain.
+AD  - Primary Care Interventions to Prevent Maternal and Child Chronic Diseases of 
+      Perinatal and Developmental Origin, RD21/0012/0003, Instituto de Salud Carlos 
+      III, 28029 Madrid, Spain.
+LA  - eng
+GR  - LCF/PR/ GN18/10310003/"la Caixa" Foundation/
+GR  - Cerebra Foundation for the Brain Injured Child/
+GR  - ASISA Foundation/
+GR  - AP180722022/Patrocinio por parte de la Fundación Mutua Madrileña en la 
+      financiación y desarrollo del proy-ecto/
+GR  - 2021-SGR-01422/"Departament de Recerca i Universitats de la Generalitat de 
+      Catalunya al Grup de Recerca de Medicina Maternofetal i Reproductiva/
+GR  - PI18/00073, PI22/00684, PI20/00246/Instituto de Salud Carlos III/
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20240524
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Humans
+MH  - *Diet, Mediterranean
+MH  - Female
+MH  - Pregnancy
+MH  - Adult
+MH  - *Brain/diagnostic imaging
+MH  - *Magnetic Resonance Imaging
+MH  - Mindfulness
+MH  - Biomarkers/urine
+MH  - Maternal Nutritional Physiological Phenomena
+MH  - Pregnancy Trimester, Third
+PMC - PMC11174669
+OTO - NOTNLM
+OT  - Mediterranean diet
+OT  - cortical area
+OT  - magnetic resonance
+OT  - pregnancy
+OT  - randomized clinical trial
+COIS- Ayako Nakaki has received support from a fellowship from “la Caixa” Foundation, a 
+      Doctoral INPhINIT retaining fellowship (LCF/BQ/DR19/11740018), from the Fundación 
+      Mutua Madrileña through project AP180722022 and from the Departament de Recerca i 
+      Universitats de la Generalitat de Catalunya al Grup de Recerca de Medicina 
+      Maternofetal i Reproductiva (2021-SGR-01422). Yvan Gomez was supported by la 
+      foundation SICPA. Sara Castro-Barquero received support from a Margarita Salas 
+      fellowship, the University of Barcelona. Kilian Vellvé was supported by a 
+      research grant from the Instituto de Salud Carlos III (CM19/00140), co-funded by 
+      the European Union. Irene Casas was supported by a research grant from the 
+      Instituto de Salud Carlos III (CM23/00118), co-funded by the European Union. Lina 
+      Youssef was supported by the grant FJC2021-048123-I, funded by 
+      MCIN/AEI/10.13039/501100011033, and by the European Union 
+      “NextGenerationEU”/PRTR. Leticia Benítez was supported by a research grant from 
+      the Instituto de Salud Carlos III (CM21/00058), co-funded by the European Union. 
+      Eduard Vieta has received grants from and served as a consultant, advisor or CME 
+      speaker for the following entities—AB-BIOTICS, AbbVie, Adamed, Angelini, Biogen, 
+      Biohaven, Boehringer Ingelheim, Celon Pharma, Compass, Dainippon Sumitomo Pharma, 
+      Ethypharm, Ferrer, Gedeon Richter, GH Research, GlaxoSmithKline, HMNC, Idorsia, 
+      Janssen, Lundbeck, Medincell, Merck, Novartis, Orion Corporation, Organon, 
+      Otsuka, Roche, Rovi, Sage, Sanofi-Aventis, Sunovion, Takeda and Viatris—outside 
+      of the submitted work. Ramon Estruch has received support from the Instituto de 
+      Salud Carlos III (AC19/00100), as part of the FoodPhyt project, under the 
+      umbrella of the European Joint Programming Initiative “A Healthy Diet for a 
+      Healthy Life” (JPI HDHL) (2019–02201), and also reports support for organizing 
+      conferences from Fundación Dieta Mediterránea, Cerveza y Salud, Brewers of 
+      Europe, Fundación Cerveza y Salud, Pernod Ricard, Instituto Cervantes, Lilly 
+      Laboratories and the Wine and Culinary International Forum, as well as 
+      nonfinancial support for the organization of a National Congress on Nutrition and 
+      feeding trials with products from Grand Fountain and Uriach Laboratories. Fàtima 
+      Crispi has received support from the Instituto de Salud Carlos III (INT21/00027, 
+      PI20/00246), co-funded by the European Union, from the Fundación Mutua Madrileña 
+      through project AP180722022 and from the Departament de Recerca i Universitats de 
+      la Generalitat de Catalunya al Grup de Recerca de Medicina Maternofetal i 
+      Reproductiva (2021-SGR-01422). Additionally, we would like to thank the Fundación 
+      Jesús Serra of the group Catalana Occidente for the Fundación Jesús Serra 
+      Research Prize in the Clinical category, awarded to the researcher Fàtima Crispi 
+      in its fourth edition for the project titled “Cardiovascular prevention from 
+      fetal life: benefits of Mediterranean diet during gestation”. Francesca Crovetto 
+      reports a personal fee from el Centro de Investigaciones Biomédicas en Red sobre 
+      Enfermedades Raras and has received support from the Instituto de Salud Carlos 
+      III (PI22/00684), co-funded by the European Union.
+EDAT- 2024/06/19 06:42
+MHDA- 2024/06/19 06:43
+PMCR- 2024/05/24
+CRDT- 2024/06/19 01:11
+PHST- 2024/04/15 00:00 [received]
+PHST- 2024/05/07 00:00 [revised]
+PHST- 2024/05/20 00:00 [accepted]
+PHST- 2024/06/19 06:43 [medline]
+PHST- 2024/06/19 06:42 [pubmed]
+PHST- 2024/06/19 01:11 [entrez]
+PHST- 2024/05/24 00:00 [pmc-release]
+AID - nu16111604 [pii]
+AID - nutrients-16-01604 [pii]
+AID - 10.3390/nu16111604 [doi]
+PST - epublish
+SO  - Nutrients. 2024 May 24;16(11):1604. doi: 10.3390/nu16111604.
