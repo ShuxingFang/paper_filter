@@ -20,7 +20,7 @@ Your task is to:
 
 - Decide whether the paper should be disqualified.
 - If disqualified, provide the type of the first applicable disqualification reason from the list above, without any further explanation.
-- If not disqualified, simply state that the paper is approved.
+- Be strict.
 
 Respond in the following JSON format without any additional text:
 
@@ -48,7 +48,7 @@ Respond in the following JSON format without any additional text:
         return True, 'Error in API call'
 
 def check(criteria):
-    with open("data/parsed/cleaned_papers.json", "r") as f:
+    with open("data/parsed/test.json", "r") as f:
         papers= json.load(f)
 
     approved_papers = []
