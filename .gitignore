@@ -1,2 +1,8 @@
 .DS_Store
 __pycache__/
+parsed/cleaned_papers.json
+parsed/parsed_papers.json
+parsed/test.json
+output/approved_papers.json
+output/disqualified_papers.json
+output/no_abstract_papers.json
