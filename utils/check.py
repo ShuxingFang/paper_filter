@@ -2,6 +2,7 @@ import os
 from openai import OpenAI
 import json
 from collections import defaultdict
+from pydantic import BaseModel
 
 
 def ask_gpt(client, criteria, title, abstract):
@@ -31,24 +32,29 @@ Respond in the following JSON format without any additional text:
 """
 
     try:
-        completion = client.chat.completions.create(
-            model="gpt-4o-mini",
+
+        class Response(BaseModel):
+            disqualified: bool
+            reason: str
+
+        completion = client.beta.chat.completions.parse(
+            model="gpt-4o",
             temperature=0,
             messages=[
                 {"role": "system", "content": "You are an assistant that helps filter academic papers based on specific criteria."},
                 {"role": "user", "content": prompt}
-            ]
+            ],
+            response_format=Response,
         )
 
-        content = completion.choices[0].message.content.strip()
-        result = json.loads(content)
-        return result['disqualified'], result.get('reason', '')
+        content = completion.choices[0].message.parsed
+        return content.disqualified, content.reason
     except Exception as e:
         print(f"An error occurred while processing the paper titled '{title}': {e}")
         return True, 'Error in API call'
 
 def check(criteria):
-    with open("data/parsed/test.json", "r") as f:
+    with open("data/parsed/cleaned_papers.json", "r") as f:
         papers= json.load(f)
 
     approved_papers = []
