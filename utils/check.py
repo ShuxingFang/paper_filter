@@ -11,10 +11,10 @@ Given the following paper information:
 Title: {title}
 Abstract: {abstract}
 
-Determine whether the paper should be disqualified based on the following criteria (type: explaination):
+Determine whether the paper should be disqualified based on the following criteria (Disqualification type: explaination):
 {criteria}
 
-As soon as the paper meets any one of the above disqualification criteria, it should be disqualified.
+If paper meets any one of the above disqualification criteria, it should be disqualified.
 
 Your task is to:
 

@@ -1,8 +1,7 @@
 criteria = """
-Review or Background Article: The paper is a systematic review or meta-analysis, not an original study.
-Wrong Study Design: The study design is not a Randomized Controlled Trial (RCT).
-Wrong Intervention: The intervention used is a first-generation mindfulness intervention (such as MBSR/MBCT or any of their variants) or is not a mindfulness intervention at all.
-No Mention of Ethical or Moral Orientation: The study does not explicitly or implicitly reference an ethical or moral orientation in its mindfulness intervention.
-Not Related: The paper is entirely unrelated to mindfulness interventions.
-No Human: The study does not involve human participants.
+1、Review or Background Articles: Exclude reviews, background articles, and non-empirical literature.
+2、Wrong Intervention: Exclude studies using first-generation mindfulness interventions (e.g., MBSR, MBCT) or non-mindfulness psychological therapies as the primary intervention; these may only serve as control conditions. The experimental group must utilize a second-generation mindfulness intervention.
+3、Wrong Population: Exclude studies involving participants outside the age range of 18-60 or lacking a clear indication of anxiety or depressive symptoms (verified by clinical diagnosis or validated scales).
+4、Wrong Study Design: Exclude non-RCT studies, such as single-group or observational designs.
+5、Not Related: Exclude studies without a second-generation mindfulness intervention or those missing required mental health or social behavior outcomes.
 """
